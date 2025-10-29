@@ -95,13 +95,12 @@ Remove CP → FFT → Demodulation → BER Calculation
 
 1. Clone this repository / 克隆项目：
    ```bash
-   git clone https://github.com/YourUsername/OFDM-System-Simulation.git
+   git clone https://github.com/AMUHE/OFDM-.git
 📚 References / 参考文献
 	•	J. G. Proakis, Digital Communications, 5th Edition
 	•	3GPP TS 36.211 — Physical Channels and Modulation
 	•	MATLAB Communications Toolbox Examples
-👤 Author / 作者信息
-
+👤 Author /
 Name / 姓名： JieYuxin
 University / 学校： Nanhangjincheng College
 Email / 邮箱： 1316730787@qq.com
