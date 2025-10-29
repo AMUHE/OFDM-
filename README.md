@@ -60,7 +60,7 @@ Remove CP → FFT → Demodulation → BER Calculation
 | BPSK | 0.0008 | ✅ |
 | QPSK | 0.0015 | ✅ |
 | 16QAM | 0.0102 | ✅ |
-p>
+
 
 ### 2️⃣ Constellation Diagram / 星座图 (QPSK, SNR = 10 dB)
 
